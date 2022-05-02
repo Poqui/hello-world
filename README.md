@@ -1,2 +1,3 @@
-# hello-world
-First repository
+#About me
+
+My name is Eric Papell
