@@ -1,5 +1,3 @@
-# hello-world
-First repository
-"firstName":Eric
-"lastName":Papell
-"age":25
+#About me
+
+My name is Eric Papell
